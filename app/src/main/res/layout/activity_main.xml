@@ -19,6 +19,7 @@
         <ImageView
             android:layout_width="160dp"
             android:layout_height="160dp"
+            android:contentDescription="Icon of a account person"
             android:src="@drawable/icon_account_circle_100" />
 
         <EditText
@@ -69,6 +70,7 @@
                 android:id="@+id/discord_btn"
                 android:layout_width="64dp"
                 android:layout_height="64dp"
+                android:contentDescription="Logo Icon Discord"
                 android:layout_margin="16dp"
                 android:src="@drawable/discord_icon_svgrepo_com" />
 
@@ -76,6 +78,7 @@
                 android:id="@+id/google_btn"
                 android:layout_width="64dp"
                 android:layout_height="64dp"
+                android:contentDescription="Logo Icon Google"
                 android:layout_margin="16dp"
                 android:src="@drawable/google_svgrepo_com__1_" />
 
